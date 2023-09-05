@@ -1,0 +1,7 @@
+C:\Users\carteixeira\source\repos\quoicoubeh\quoicoubeh\obj\Debug\quoicoubeh.csproj.AssemblyReference.cache
+C:\Users\carteixeira\source\repos\quoicoubeh\quoicoubeh\obj\Debug\quoicoubeh.csproj.CoreCompileInputs.cache
+C:\Users\carteixeira\source\repos\quoicoubeh\quoicoubeh\bin\Debug\quoicoubeh.exe.config
+C:\Users\carteixeira\source\repos\quoicoubeh\quoicoubeh\bin\Debug\quoicoubeh.exe
+C:\Users\carteixeira\source\repos\quoicoubeh\quoicoubeh\bin\Debug\quoicoubeh.pdb
+C:\Users\carteixeira\source\repos\quoicoubeh\quoicoubeh\obj\Debug\quoicoubeh.exe
+C:\Users\carteixeira\source\repos\quoicoubeh\quoicoubeh\obj\Debug\quoicoubeh.pdb
