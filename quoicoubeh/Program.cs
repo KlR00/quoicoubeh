@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace quoicoubeh
+namespace calculatrice
 {
     internal class Program
     {
@@ -12,7 +12,7 @@ namespace quoicoubeh
         {
 
 
-
+            Console.WriteLine("hello world");
 
         }
     }
